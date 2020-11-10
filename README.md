@@ -17,25 +17,24 @@ DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3
 #### Highlights
 cURL origional author and founder, Daniel Stenberg, part of the
 wolfSSL team
-• Auditable file transfer
-• Precision file transfer protocols
-• Verbose output options
-• Backward compatability
-• Platform agnostic
-• High performance data transfers
-• Customizable feature set
-• Extensive documentation
-• Open source
-• Foundation of support and consulting provided by origional
-cURL author and founder
-• Optimization support and consulting offered
-• Commercial support offered
-* Basic  $2,000/yr
-* Standard $6,000/yr
-* Premium $23,000/yr
-* 24x7 $50,000/yr 
+* Auditable file transfer
+* Precision file transfer protocols
+* Verbose output options
+* Backward compatability
+* Platform agnostic
+* High performance data transfers
+* Customizable feature set
+* Extensive documentation
+* Open source
+* Foundation of support and consulting provided by origional cURL author and founder
+* Optimization support and consulting offered
+* Commercial support offered
+    * Basic  $2,000/yr
+    * Standard $6,000/yr
+    * Premium $23,000/yr
+    * 24x7 $50,000/yr 
 
-• Support Page: https://www.wolfssl.com/products/support-packages/
-• Product Page: https://www.wolfssl.com/products/curl/
-• GitHub location: https://github.com/curl/curl
+* Support Page: https://www.wolfssl.com/products/support-packages/
+* Product Page: https://www.wolfssl.com/products/curl/
+* GitHub location: https://github.com/curl/curl
 ** *
