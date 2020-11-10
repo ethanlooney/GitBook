@@ -10,8 +10,11 @@ support provided by wolfSSL, there is also a new library in
 its beta stage that is also licensed and supported by wolfSSL 
 &ndash; the tinycurl library! 
 tinycurl is a version of curl that is capable of performing HTTPS and fits within 100K (including the wolfSSL library) on a typical 32 bit architecture. It is approximately one-quarter of the size of the typical curl build on Debian-based Linux with an x86-64 architecture.
+
 The latest version of tinycurl can be found on the wolfSSL [downloads](wolfssl.com/downloads) page.
+
 The wolfSSL embedded SSL/TLS library supports a long list of OS and RTOS implementations, including:
+
 Win32/64, Linux, Mac OS X, Solaris, ThreadX, VxWorks, FreeBSD, NetBSD, OpenBSD, embedded Linux, Yocto Linux, OpenEmbedded, WinCE, Haiku, OpenWRT, iPhone (iOS), Android, Nintendo Wii and Gamecube through DevKitPro, QNX, MontaVista, NonStop, TRON/ITRON/µITRON, Micrium µC/OS-III, FreeRTOS, SafeRTOS, NXP/Freescale MQX, Nucleus, TinyOS, HP/UX, AIX, ARC MQX, TI-RTOS, uTasker, embOS, INtime, Mbed, uT-Kernel, RIOT, CMSIS-RTOS, FROSTED, Green Hills INTEGRITY, Keil RTX, TOPPERS, PetaLinux, Apache Mynewt, PikeOS, Deos
 
 #### Supports
