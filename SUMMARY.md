@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [curl](untitled.md)
+* [curl and tinycurl](untitled.md)
 

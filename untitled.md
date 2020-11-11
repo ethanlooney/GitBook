@@ -1,4 +1,4 @@
-# curl
+# curl and tinycurl
 
 ## Usage
 
