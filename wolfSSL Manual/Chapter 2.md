@@ -82,4 +82,4 @@ By default, wolfSSL only builds in shared mode, with static mode being disabled.
 | ------------- |:-------------:| -----:|
 | **--enable-debug**      | Disabled | Enable wolfSSL debugging support |
 | **--enable-distro**      | Disabled      | Enable wolfSSL distro build |
-| **--enable-singlethreaded** | Disabled neat |    Enable single threaded mode, no multi thread protections |
+| **--enable-singlethreaded** | Disabled |    Enable single threaded mode, no multi thread protections |
