@@ -12,7 +12,7 @@ http://wolfssl.com/wolfSSL/download/downloadForm.php
 
 After downloading the ZIP file, unzip the file using the `unzip` “unzip” command.  To use native line endings, enable the “-a” modifier when using unzip.  From the unzip man page, the “-a” modifier functionality is described:
 
-[...]  The -a option causes files identified by zip as text files (those with the ‘t’  label in  zipinfo  listings,  rather  than  ‘b’)  to  be automatically extracted  as  such,  converting   line   endings,   end-of-file characters  and  the  character  set  itself as necessary.  [...]
+``` The -a option causes files identified by zip as text files (those with the ‘t’  label in  zipinfo  listings,  rather  than  ‘b’)  to  be automatically extracted  as  such,  converting   line   endings,   end-of-file characters  and  the  character  set  itself as necessary.  ```
 
 **NOTE**:  Beginning with the release of wolfSSL 2.0.0rc3, the directory structure of wolfSSL was changed as well as the standard install location.  These changes were made to make it easier for open source projects to integrate wolfSSL.  For more information on header and structure changes, please see **Sections 9.1** and **9.3**.
 
