@@ -1,4 +1,4 @@
-# WOLFSSL MANUAL
+# wolfSSL Manual
 
 [Download PDF](https://www.wolfssl.com/documentation/wolfSSL-Manual.pdf)
 
