@@ -21,6 +21,7 @@ After downloading the ZIP file, unzip the file using the `unzip` “unzip” com
 When building wolfSSL on Linux, *BSD, OS X, Solaris, or other *nix-like systems, use the autoconf system. To build wolfSSL you only need to run two commands from the wolfSSL root directory:
 
 ``./configure``
+
 ``make``
 
 You can append any number of build options to ./configure.  For a list of available build options, please see **Section 2.5** or run:
