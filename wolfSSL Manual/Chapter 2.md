@@ -54,7 +54,7 @@ Further details about expected output of the testsuite program can be found in S
 
 #### 2.3 Building on Windows
 
-n addition to the instructions below, you can find instructions and tips for building wolfSSL with Visual Studio [here](https://www.google.com/url?q=https://wolfssl.com/wolfSSL/Docs-wolfssl-visual-studio.html&sa=D&ust=1568828990762000]).
+In addition to the instructions below, you can find instructions and tips for building wolfSSL with Visual Studio [here](https://www.google.com/url?q=https://wolfssl.com/wolfSSL/Docs-wolfssl-visual-studio.html&sa=D&ust=1568828990762000]).
 
 **VS 2008**:  Solutions are included for Visual Studio 2008 in the root directory of the install.  For use with Visual Studio 2010 and later, the existing project files should be able to be converted during the import process.
 
